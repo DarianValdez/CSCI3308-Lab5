@@ -4,3 +4,5 @@ Lab 5: Version Control<br>
 CSCI3308 Spring 2018<br>
 <br>
 Step 11 Edit
+<br>
+Step 18: edited by Justus
